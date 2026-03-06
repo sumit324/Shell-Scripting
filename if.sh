@@ -1,5 +1,5 @@
 
-#!/bin/bash
+#!/bin/bash 
 
 read -p "enter the number:" num
 if [[ $num -ge 10 ]];then
